@@ -1,0 +1,4 @@
+baseURL = "https://gobbob.github.io/"
+languageCode = "en-gb"
+title = "Stuff I gone and done"
+theme = "ananke"
